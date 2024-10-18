@@ -5,7 +5,7 @@ const TelegramBot = require('node-telegram-bot-api');
 
 const privateKey = ''; // Ganti dengan private key Anda
 const telegramBotToken = 'Taiko Report'; // Ganti dengan token bot Telegram Anda
-const chatId = '6980786089'; // Ganti dengan chat ID Anda
+const chatId = ''; // Ganti dengan chat ID Anda
 
 const rpcUrl = 'https://rpc.taiko.tools';
 const provider = new ethers.providers.JsonRpcProvider(rpcUrl);
