@@ -3,7 +3,7 @@ const axios = require('axios');
 const chalk = require('chalk');
 const TelegramBot = require('node-telegram-bot-api');
 
-const privateKey = 'a13e784a0eb422d4d2a6cad55b876b241dd2fd696bf2cf717eb577ca22eb3637'; // Ganti dengan private key Anda
+const privateKey = ''; // Ganti dengan private key Anda
 const telegramBotToken = 'Taiko Report'; // Ganti dengan token bot Telegram Anda
 const chatId = '6980786089'; // Ganti dengan chat ID Anda
 
